@@ -12,7 +12,7 @@ df['MEDV'] = data.target
 X_train, X_test, y_train, y_test = train_test_split(
     df.drop('MEDV', axis=1),
     df['MEDV'],
-    train_test_split=0.28,
+    test_size=0.28,
     random_state=0
 )
 
