@@ -51,3 +51,10 @@ print(corr_features)
 # (X_train and X_test)
 X_train.drop(corr_features, axis=1)
 X_test.drop(corr_features, axis=1)
+
+
+
+Daniel 
+ - Schools offering Data Analytics
+ - Business Intelligence and Data Analytics (5 days) - 50,000 ksh
+ - 3 Months - [60,000 ksh] - Data Analytics & Business Intelligence (Visualizations)
