@@ -1,0 +1,26 @@
+﻿Column Name,Column Description
+Newsfeed_PK,Database Article ID
+KPIFK,
+DateFK,Date ID (Year/Month/Day)
+Newsfeed_EventId,Newsfeed Event ID
+CountryFK,Country Unique ID
+Newsfeed_Source,Media monitor that sourced the article
+Newsfeed_Source_Description,Description of monitor that sourced the article
+Newsfeed_Source_Url,Link to newsfeed monitor that sourced the article
+Newsfeed_DateDisplay,Date and time the article was sourced
+Newsfeed_CountryISO,ISO code for country that the article references 
+Newsfeed_Country,Name for country that the article references 
+Newsfeed_Country_UNDPRegion,Region in which referenced country is located
+Newsfeed_IncidentType,Type of event the  article reports
+Newsfeed_IncidentLevel,
+Newsfeed_IncidentTypeDesc,
+Newsfeed_Description,Brief description of event the article reports 
+Newsfeed_Description2,Long description of event the article reports
+Newsfeed_Link,Link to original news article
+Newsfeed_Longitude,Longtitude of where the article occurred.
+Newsfeed_Latitude,Latitude of where the event in the article occurred.
+Newsfeed_Trajectory,
+Newsfeed_PeopleAffected,
+Newsfeed_Source2,Secondary newsfeed source
+Newsfeed_Language,Language of newsfeed
+Newsfeed_Entity,Entities mentioned in news article.
